@@ -1,0 +1,21 @@
+.song{
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+}
+.speech{
+    font-size: 20px;
+    font-style: calc();
+    color: black;
+}
+.directions{
+    font-size: 16px;
+    font-style: inherit;
+    color: black;
+}
+.name{
+    font-style: italic;
+    font-size: 16px;
+    color: black;
+    
+}
