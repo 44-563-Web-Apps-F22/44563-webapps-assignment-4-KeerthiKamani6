@@ -27,29 +27,35 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     color: yellowgreen;
+    font-style: italic;
     
 }
 .fre:hover{
     color: brown;
     background-color: blue;
+   
 }
 .gen{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     color: green;
+    font-style: italic;
  }
  .gen:hover{
     color: brown;
     background-color: blue;
+    
 }
 .pol{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     color: orange;
+    font-style: italic;
 }
 .pol:hover{
     color: brown;
     background-color: blue;
+    
 }
 .gir{
     font-family: 'Courier New', Courier, monospace;
@@ -64,8 +70,23 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     color:darkslategray;
+    font-style: italic;
 }
 .edi:hover{
     color: brown;
     background-color: blue;
+}
+table.table
+{
+    color:blueviolet;
+    text-align: center;
+    padding: 30px;
+    margin:20px;
+}
+table, th, td {
+    border: 2px dotted;
+  }
+tr:nth-child(odd)
+{
+    background-color: rosybrown;
 }
